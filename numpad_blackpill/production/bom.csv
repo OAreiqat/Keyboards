@@ -1,0 +1,6 @@
+Designator,Footprint,Quantity,Value,LCSC Part #
+"D1, D10, D11, D12, D13, D14, D15, D16, D17, D18, D19, D2, D20, D3, D4, D5, D6, D7, D8, D9",D_DO-35_SOD27_P7.62mm_Horizontal,20,1N4148,
+"SW1, SW10, SW11, SW12, SW13, SW14, SW15, SW16, SW17, SW18, SW2, SW3, SW4, SW5, SW6, SW7, SW9",SW_Cherry_MX_1.00u_PCB,17,SW_Push,
+"SW19, SW20",SW_Cherry_MX_2.00u_Vertical_PCB,2,SW_Push,
+SW8,SW_Cherry_MX_2.00u_PCB,1,SW_Push,
+U1,YAAJ_BlackPill_SWD_3,1,YAAJ_BlackPill_Part_Like_SWD_Breakout,
